@@ -95,7 +95,7 @@
   "https://suumo.jp/chukoikkodate/chiba/sc_katorigun/nc_78287601/": 3000000,
   "https://suumo.jp/chukoikkodate/chiba/sc_katori/nc_75841958/": 3300000,
   "https://suumo.jp/chukoikkodate/ibaraki/sc_hitachiomiya/nc_20155746/": 1200000,
-  "https://suumo.jp/chukoikkodate/chiba/sc_sambugun/nc_20230444/": 3300000,
+  "https://suumo.jp/chukoikkodate/chiba/sc_sambugun/nc_20230444/": 2800000,
   "https://suumo.jp/chukoikkodate/ibaraki/sc_chikusei/nc_75682703/": 1480000,
   "https://suumo.jp/chukoikkodate/ibaraki/sc_kasama/nc_78787823/": 1480000,
   "https://suumo.jp/chukoikkodate/ibaraki/sc_kujigun/nc_20215045/": 1800000,
@@ -129,7 +129,7 @@
   "https://suumo.jp/chukoikkodate/ibaraki/sc_hitachiota/nc_20491384/": 480000,
   "https://suumo.jp/chukoikkodate/chiba/sc_choseigun/nc_20499592/": 2800000,
   "https://suumo.jp/chukoikkodate/ibaraki/sc_tsukuba/nc_20501683/": 2980000,
-  "https://suumo.jp/chukoikkodate/ibaraki/sc_mito/nc_20533267/": 4800000,
+  "https://suumo.jp/chukoikkodate/ibaraki/sc_mito/nc_20533267/": 3800000,
   "https://suumo.jp/chukoikkodate/chiba/sc_choshi/nc_20540130/": 3980000,
   "https://suumo.jp/chukoikkodate/ibaraki/sc_mito/nc_20540422/": 2900000,
   "https://suumo.jp/chukoikkodate/ibaraki/sc_bando/nc_20536994/": 4700000,
@@ -145,5 +145,7 @@
   "https://suumo.jp/chukoikkodate/chiba/sc_kimitsu/nc_20030901/": 2800000,
   "https://suumo.jp/chukoikkodate/chiba/sc_mobara/nc_79084857/": 4980000,
   "https://suumo.jp/chukoikkodate/ibaraki/sc_takahagi/nc_20086341/": 800000,
-  "https://suumo.jp/chukoikkodate/chiba/sc_ichihara/nc_20620637/": 3800000
+  "https://suumo.jp/chukoikkodate/chiba/sc_ichihara/nc_20620637/": 3800000,
+  "https://suumo.jp/chukoikkodate/ibaraki/sc_hitachi/nc_78952920/": 1980000,
+  "https://suumo.jp/chukoikkodate/ibaraki/sc_koga/nc_20558176/": 3980000
 }
